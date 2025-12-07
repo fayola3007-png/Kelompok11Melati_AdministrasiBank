@@ -270,7 +270,7 @@ def cari_data():
 
     if not benar:
         print("Data tidak ditemukan!")
-  
+
 
 # exit
 def keluar():
